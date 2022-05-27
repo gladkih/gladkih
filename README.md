@@ -13,4 +13,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gladkih&show_icons=true&locale=en" alt="gladkih" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gladkih)](https://github.com/ryo-ma/github-profile-trophy)
