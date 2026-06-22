@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maxim</h1>
 <h3 align="center">A frontend developer from Russia</h3>
 
-- 🔭 I’m currently working on [Huntflow](https://huntflow.ru)
-
 - 💬 Ask me about **vue/html/css**
 
 - 📫 How to reach me **mail@gladkih.su**
